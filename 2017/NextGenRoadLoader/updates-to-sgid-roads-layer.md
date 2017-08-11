@@ -1,11 +1,20 @@
 
-### Updates to the SGID Statewide Roads Data Model
+### Major update to the SGID Statewide Roads Data Model
 
-AGRC has officially adopted the 
+After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC has officially adopted a [new data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546)  for the Statewide roads data layer.  The two main drivers for this change are the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.  
+What you need to know.
 
-```
-this is a fancy code block
-```
+Summary of the new data model ETL:
+.
+.
+.
+.
+
+[Click here](https://docs.google.com/spreadsheets/d/1-oxxE6Ib45tJrySXmz3KnpGtBz_xJBMpVYR4T49CwPI/edit?usp=sharing) for a more detailed look at our ETL process, showing a a side-by-side comparison of what fields were pushed where, as well as what fields were new or deprecated (note: there are three sheets in this spreadsheet).
+
+For your convience, we will contininue to provide the depreated data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID.
+
+
 spreadsheet with all the changes, original data, new data, changes:
 deprecated fields?
 new fields?
@@ -15,4 +24,4 @@ nextgen911 based
 
 [new schema metadata](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) 
 
-[Click here](https://docs.google.com/spreadsheets/d/1-oxxE6Ib45tJrySXmz3KnpGtBz_xJBMpVYR4T49CwPI/edit?usp=sharing) to view the spreadsheet containing the old and new schemas, as well as to see a side-by-side comparison of what fields were pushed where, and what fields were created and deprecated (note: there are three sheets in this spreadsheet).
+
