@@ -26,7 +26,7 @@ After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema
 For your convience, we will contininue to provide the depreated data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID.  The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018.
 
 **What you need to know:**
-- Data model is based on the NextGen911 and FHA's ARNOLD requirements
+- New data model is based on the NextGen911 and FHA's ARNOLD requirements
 - Data was ETL'ed from the old model
 - spatial assignments for polygon fields
 - Left / Right field values
