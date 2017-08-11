@@ -1,7 +1,8 @@
 
 ### Major update to the SGID Statewide Roads Data Model
 
-After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC has officially adopted a [new data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546)  for the Statewide roads data layer.  The two main drivers for this change are the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.  
+After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC has officially adopted a [new statewide roads data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546).  The two main drivers for this change are the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.
+
 What you need to know.
 
 Summary of the new data model ETL:
