@@ -21,9 +21,12 @@ categories:
 
 After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC has officially adopted a [new statewide roads data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546).  The two main drivers for this update were the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.
 
+This new data model is now in effect and immediately ready for your consumption.  If you are accessing the SGID roads layer via our SDE connection (only available inside the State network) you will now notice two statewide layers.  The layer named "RoadsOS" is the older data model, whereas "Roads" is now the newer data model.  Likewise, if you are obtaining the SGID Roads layer from our website via File Geodatabase download you will also notice two statewide layers available: both old and new data models.
+
+For your convience, we will contininue to provide the older data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID.  The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018. 
+
 [Click here](https://docs.google.com/spreadsheets/d/1-oxxE6Ib45tJrySXmz3KnpGtBz_xJBMpVYR4T49CwPI/edit?usp=sharing) for a detailed look at our ETL process, showing a a side-by-side comparison of what fields were pushed where, as well as what fields are new or deprecated (note: there are three sheets in this spreadsheet).
 
-For your convience, we will contininue to provide the depreated data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID.  The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018.
 
 **What you need to know:**
 - New data model is based on the NextGen911 and FHA's ARNOLD requirements
