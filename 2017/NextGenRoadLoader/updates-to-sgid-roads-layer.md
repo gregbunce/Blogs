@@ -28,7 +28,7 @@ For your convience, we will contininue to provide the older data model as a [Fil
 [Click here](https://docs.google.com/spreadsheets/d/1-oxxE6Ib45tJrySXmz3KnpGtBz_xJBMpVYR4T49CwPI/edit?usp=sharing) for a detailed look at our ETL process, showing a a side-by-side comparison of what fields were pushed where, as well as what fields are new or deprecated (note: there are three sheets in this spreadsheet).
 
 
-**What you need to know:**
+**The Take Away:**
 - New data model is based on the NextGen911 and FHA's ARNOLD requirements
 - Data was ETL'ed from the old model
 - spatial assignments for polygon fields
@@ -37,7 +37,8 @@ For your convience, we will contininue to provide the older data model as a [Fil
 - New fields, deprecated fields
 - Publishing both models until March 21sth, 2018.
 
-Please donn't hesitate to [contact me](email link here) if you have any questions or concerns about the new data model or this transistion.
+Please don't hesitate to [contact me](mailto:gbunce@utah.gov) if you have any questions or concerns about the new data model or this transistion.
 
-We enthused are provide this new model on a statwide roads dataset this mature and it is our hope that you will be enouraged to also adopt it. Let us know if you thinking about transistioning your data to this model and are looking for guidance or assistnce. It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level, and to encourage and assist other agencies to do so as well.
+We are enthused to provide this model on the statwide roads dataset and it is our hope that you are enouraged to adopt it. Let us know if you thinking about transistioning your data to this model and are looking for guidance or assistnce. It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level, and to encourage and assist other agencies to do so as well. 
+The desire is to best position the state to meet requirements for Next Generation 911, as well as new federal reporting requirements placed on state DOTs.
 
