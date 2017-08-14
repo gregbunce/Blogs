@@ -17,11 +17,13 @@ categories:
   - SGID Data
 ---
 
-### Major update to the SGID Statewide Roads Data Model
+### Major update coming to the SGID Statewide Roads Data Model
 
-After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC has officially adopted a [new statewide roads data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546). The two main drivers for this update were the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.
+After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC is officially adopting a [new statewide roads data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) in early September. The two main drivers for this update are the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.
 
-This new data model is now in effect and immediately ready for your consumption. We encourage you to download it and itegrate it into your own workflow sooner than later. If you are obtaining the SGID Roads layer from our website via File Geodatabase download links you will now notice two statewide layers available. The download labled... is the new... Likewise, if you are accessing the SGID roads layer via our SDE connection (only available inside the State network) you will also notice two statewide layers. The layer named "RoadsODM" is the older data model, whereas "Roads" is now the newer data model.
+The purpose of this blog post is to give users a heads-up on the changes coming, and to allow the necessary time to adjust internal workflows. We will continue to provide the older data model unit March 21st, 2018, but we encourage you to adopt this one sooner than later. There will be subsequent blog post detailing the transistion process.  
+
+If you obtain the SGID Roads layer from our website via the download links, you will now notice both statewide road layer formats. Simaraly, if you are accessing the SGID roads layer via our SDE connection (only available inside the State network) you will now notice a statewide layer named "Roads_NextGen". This NextGen layer will replace the Roads layer in early September, when the Roads layer will be renamed to "RoadsODM".  Again, this older data model in the SDE will also be maiantened and available until March 21, 2018.
 
 For your convience, we will contininue to provide the older data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID. The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018.
 
@@ -29,8 +31,7 @@ For your convience, we will contininue to provide the older data model as a [Fil
 
 Please don't hesitate to [contact me](mailto:gbunce@utah.gov) if you have any questions or concerns about the new data model or this transistion.
 
-We are enthused to provide this model on the statwide roads dataset and it is our hope that you are enouraged to adopt it. Let us know if you thinking about transistioning your data to this model and are looking for guidance or assistnce. It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level, and to encourage and assist other agencies to do so as well. 
-The desire is to best position the state to meet requirements for Next Generation 911, as well as new federal reporting requirements placed on state DOTs.
+It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level, and to encourage and assist other agencies to do so as well. The desire is to best position the state to meet requirements for Next Generation 911, as well as new federal reporting requirements placed on state DOTs. We are enthused to provide this dataset and it is our hope that you will adopt it within your own data. Let us know if you are planning on doing so and are looking for guidance or assistnce in the process.
 
 **The Take Away**
 - New data model is based on the NextGen911 and FHA's ARNOLD requirements
