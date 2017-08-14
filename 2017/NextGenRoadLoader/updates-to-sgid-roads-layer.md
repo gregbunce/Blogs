@@ -32,7 +32,7 @@ For your convience, we will contininue to provide and maintain both data models 
 Please don't hesitate to [contact me](mailto:gbunce@utah.gov) if you have any questions or concerns about the new data model or this transistion.
 
 ______________________________________________________________
-and to encourage and assist other agencies to do so as well. 
+It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level, and to encourage and assist other agencies to do so as well.
 
 We hope that you will adopt it within your own agency. Let us know if you are planning on doing so and are looking for guidance or assistnce in the process.
 
