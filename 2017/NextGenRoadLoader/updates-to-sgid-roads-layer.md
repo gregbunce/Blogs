@@ -39,5 +39,5 @@ For your convience, we will contininue to provide the older data model as a [Fil
 
 Please donn't hesitate to [contact me](email link here) if you have any questions or concerns about the new data model or this transistion.
 
-We enthused are provide this new model on a statwide roads dataset this mature and it is our hope that you will be enouraged to also adopt this model.  Let us know if you thinking about adopting this model and are looking for guidance or assistnce.  It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level.
+We enthused are provide this new model on a statwide roads dataset this mature and it is our hope that you will be enouraged to also adopt it.  Let us know if you thinking about transistioning your data to this model and are looking for guidance or assistnce.  It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level, and to encourage and assist other agencies to do so as well.
 
