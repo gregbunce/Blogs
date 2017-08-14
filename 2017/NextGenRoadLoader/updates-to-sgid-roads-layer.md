@@ -23,7 +23,7 @@ After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema
 
 This new data model is now in effect and immediately ready for your consumption. We encourage you to download it and itegrate it into your own workflow sooner than later. If you are obtaining the SGID Roads layer from our website via File Geodatabase download links you will now notice two statewide layers available. The download labled... is the new... Likewise, if you are accessing the SGID roads layer via our SDE connection (only available inside the State network) you will also notice two statewide layers. The layer named "RoadsODM" is the older data model, whereas "Roads" is now the newer data model.
 
-For your convience, we will contininue to provide the older data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID. The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018. 
+For your convience, we will contininue to provide the older data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID. The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018.
 
 [Click here](https://docs.google.com/spreadsheets/d/1-oxxE6Ib45tJrySXmz3KnpGtBz_xJBMpVYR4T49CwPI/edit?usp=sharing) for a detailed look at our ETL process, showing a a side-by-side comparison of what fields were pushed where, as well as what fields are new or deprecated (note: there are three sheets in this spreadsheet).
 
