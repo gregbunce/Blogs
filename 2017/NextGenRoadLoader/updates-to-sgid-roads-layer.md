@@ -21,7 +21,7 @@ categories:
 
 After much statewide [coordination](https://gis.utah.gov/road-centerlines-schema-update-and-regional-workshop-notes/) and [feedback](https://gis.utah.gov/feedback-wanted-draft-statewide-road-centerlines-schema-v-3-0-x/), AGRC has officially adopted a [new statewide roads data model](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546).  The two main drivers for this update were the Next Generation 911 GIS requirements and the Federal Highway Administration’s all roads network (ARNOLD) reporting requirements for state DOTs.
 
-This new data model is now in effect and immediately ready for your consumption.  If you are accessing the SGID roads layer via our SDE connection (only available inside the State network) you will now notice two statewide layers.  The layer named "RoadsOS" is the older data model, whereas "Roads" is now the newer data model.  Likewise, if you are obtaining the SGID Roads layer from our website via File Geodatabase download you will also notice two statewide layers available: both old and new data models.
+This new data model is now in effect and immediately ready for your consumption.  If you are accessing the SGID roads layer via our SDE connection (only available inside the State network) you will now notice two statewide layers.  The layer named "RoadsODM" is the older data model, whereas "Roads" is now the newer data model.  Likewise, if you are obtaining the SGID Roads layer from our website via File Geodatabase download you will also notice two statewide layers available: both old and new data models.
 
 For your convience, we will contininue to provide the older data model as a [File Geodatabase download](link here) and as a published SDE Data Layer on the SGID.  The data will be current and will match what is in the new model.  We will provide the deprecated model data until March 21st, 2018. 
 
@@ -37,5 +37,7 @@ For your convience, we will contininue to provide the older data model as a [Fil
 - New fields, deprecated fields
 - Publishing both models until March 21sth, 2018.
 
+Please donn't hesitate to [contact me](email link here) if you have any questions or concerns about the new data model or this transistion.
 
+We enthused are provide this new model on a statwide roads dataset this mature and it is our hope that you will be enouraged to also adopt this model.  Let us know if you thinking about adopting this model and are looking for guidance or assistnce.  It has always been goal to stay ahead of the coming changes at the NextGen 911 and FHA level.
 
