@@ -34,8 +34,8 @@ The desire is to best position the state to meet requirements for Next Generatio
 
 **The Take Away**
 - New data model is based on the NextGen911 and FHA's ARNOLD requirements
-- Data was ETL'ed from the old model
-- spatial assignments for polygon fields
+- Data ETL was directly derived from the former data model
+- During the ETL, all spatial fields were assigned via point-in-polygon queries, with a 50 foot offset for categories containing right and left fields (ie: ZIPCODE_R; ZIPCODE_L)
 - Left / Right field values
 - Recalculation of FULLNAME field
 - New fields, deprecated fields
