@@ -11,7 +11,7 @@ tags:
   - next generation 911
   - Federal Highway Administration ARNOLD
 published: true
-date: 2017-08-15 00:00:00
+date: 2017-08-15 14:17:00
 title: 'Major update coming to the SGID Statewide Roads Data Model'
 categories:
   - SGID Data
